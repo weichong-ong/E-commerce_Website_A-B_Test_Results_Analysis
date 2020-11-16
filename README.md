@@ -25,3 +25,7 @@ Logistic regression was an **individual** approach to understand whether or not 
 * The country where the user lives is not a good predictor for user conversion.
 * The interaction between type of page and country has no significant effects on conversion.
 * Adding time factor provides no improvement in the model.
+
+For further reading:
+- [A/B Testing Guide](https://vwo.com/ab-testing/)
+- [The Complete Guide To A/B Testing & Split Testing (2020)](https://www.convertize.com/ab-testing/)
